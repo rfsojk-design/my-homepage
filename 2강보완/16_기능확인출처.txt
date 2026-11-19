@@ -1,0 +1,7 @@
+2강 실습 참고 출처
+
+프로젝트 사용: https://help.openai.com/en/articles/10169521-projects-in-chatgpt
+데이터 분석: https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt
+
+프로젝트 실습의 메뉴명은 2026-11-04에 제공된 ChatGPT 화면의 '프로젝트 설정 → 지침', '소스 → 소스 추가', '채팅'을 기준으로 합니다.
+Plugins는 기본 업무 비서 제작과 분리한 확장 활동입니다.
